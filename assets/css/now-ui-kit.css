@@ -98,7 +98,7 @@
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-blue,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-blue {
   color: #fff;
-  background: #2CA8FF;
+  background: #ED125C;
 }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-green,
@@ -271,7 +271,7 @@
 }
 
 .bootstrap-switch.bootstrap-switch-on .bootstrap-switch-blue~.bootstrap-switch-default {
-  background-color: #2CA8FF;
+  background-color: #ED125C;
 }
 
 .bootstrap-switch.bootstrap-switch-off .bootstrap-switch-red,
@@ -675,7 +675,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
 
 .slider.slider-info .noUi-connect,
 .slider.slider-info.noUi-connect {
-  background-color: #2CA8FF;
+  background-color: #ED125C;
 }
 
 .slider.slider-info.noUi-target {
@@ -683,7 +683,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
 }
 
 .slider.slider-info .noUi-handle {
-  background-color: #2CA8FF;
+  background-color: #ED125C;
 }
 
 .slider.slider-success .noUi-connect,
@@ -1256,7 +1256,7 @@ select.selectpicker {
 }
 
 .bootstrap-tagsinput.badge-info .badge {
-  background-color: #2CA8FF;
+  background-color: #ED125C;
   color: #FFFFFF;
   border: none;
 }
@@ -1266,7 +1266,7 @@ select.selectpicker {
 }
 
 .bootstrap-tagsinput.badge-info .badge .tagsinput-add {
-  color: #2CA8FF;
+  color: #ED125C;
 }
 
 .bootstrap-tagsinput.badge-success .badge {
@@ -1934,7 +1934,7 @@ input.datetimepicker[data-color="orange"]+.bootstrap-datetimepicker-widget.dropd
 }
 
 input.datetimepicker[data-color="blue"]+.bootstrap-datetimepicker-widget {
-  background-color: #2CA8FF;
+  background-color: #ED125C;
 }
 
 input.datetimepicker[data-color="blue"]+.bootstrap-datetimepicker-widget table td.active>div,
@@ -1942,7 +1942,7 @@ input.datetimepicker[data-color="blue"]+.bootstrap-datetimepicker-widget table t
 input.datetimepicker[data-color="blue"]+.bootstrap-datetimepicker-widget button[data-action],
 input.datetimepicker[data-color="blue"]+.bootstrap-datetimepicker-widget.dropdown-menu.top:after,
 input.datetimepicker[data-color="blue"]+.bootstrap-datetimepicker-widget.dropdown-menu.bottom:before {
-  color: #2CA8FF;
+  color: #ED125C;
 }
 
 input.datetimepicker[data-color="green"]+.bootstrap-datetimepicker-widget {
@@ -2769,8 +2769,8 @@ Created using IcoMoon - icomoon.io
 .badge-info,
 .badge-info[href]:focus,
 .badge-info[href]:hover {
-  border-color: #2CA8FF;
-  background-color: #2CA8FF;
+  border-color: #ED125C;
+  background-color: #ED125C;
   color: #FFFFFF;
 }
 
@@ -2870,8 +2870,8 @@ Created using IcoMoon - icomoon.io
 .pagination.pagination-info .page-item.active>.page-link,
 .pagination.pagination-info .page-item.active>.page-link:focus,
 .pagination.pagination-info .page-item.active>.page-link:hover {
-  background-color: #2CA8FF;
-  border-color: #2CA8FF;
+  background-color: #ED125C;
+  border-color: #ED125C;
 }
 
 .pagination.pagination-success .page-item.active>.page-link,
@@ -3058,7 +3058,7 @@ p {
 }
 
 .text-info {
-  color: #2CA8FF !important;
+  color: #ED125C !important;
 }
 
 .text-success {
@@ -3092,12 +3092,12 @@ p {
 }
 
 .blockquote.blockquote-primary {
-  border-color: #f96332;
-  color: #f96332;
+  border-color: #ED125C ;
+  color: #ED125C ;
 }
 
 .blockquote.blockquote-primary small {
-  color: #f96332;
+  color: #ED125C ;
 }
 
 .blockquote.blockquote-danger {
@@ -3660,7 +3660,7 @@ fieldset[disabled] .btn-success.active {
 }
 
 .btn-info {
-  background-color: #2CA8FF;
+  background-color: #ED125C;
   color: #FFFFFF;
 }
 
@@ -3708,13 +3708,13 @@ fieldset[disabled] .btn-info:focus,
 fieldset[disabled] .btn-info.focus,
 fieldset[disabled] .btn-info:active,
 fieldset[disabled] .btn-info.active {
-  background-color: #2CA8FF;
-  border-color: #2CA8FF;
+  background-color: #ED125C;
+  border-color: #ED125C;
 }
 
 .btn-info.btn-simple {
-  color: #2CA8FF;
-  border-color: #2CA8FF;
+  color: #ED125C;
+  border-color: #ED125C;
 }
 
 .btn-info.btn-simple:hover,
@@ -3735,7 +3735,7 @@ fieldset[disabled] .btn-info.active {
 }
 
 .btn-info.btn-link {
-  color: #2CA8FF;
+  color: #ED125C;
 }
 
 .btn-info.btn-link:hover,
@@ -4021,7 +4021,7 @@ fieldset[disabled] .btn-neutral.active {
 }
 
 .btn-neutral.btn-info {
-  color: #2CA8FF;
+  color: #ED125C;
 }
 
 .btn-neutral.btn-info:hover,
@@ -4174,8 +4174,8 @@ fieldset[disabled] .btn-neutral.active {
 }
 
 .btn-outline-info {
-  color: #2CA8FF;
-  border-color: #2CA8FF;
+  color: #ED125C;
+  border-color: #ED125C;
 }
 
 .btn-outline-info:hover,
@@ -5610,12 +5610,12 @@ textarea.form-control:active {
 }
 
 .progress-container.progress-info .progress-bar {
-  background: #2CA8FF;
+  background: #ED125C;
 }
 
 .progress-container.progress-info .progress-value,
 .progress-container.progress-info .progress-badge {
-  color: #2CA8FF;
+  color: #ED125C;
 }
 
 .progress-container.progress-success .progress {
@@ -5730,7 +5730,7 @@ textarea.form-control:active {
 .nav-pills.nav-pills-info .nav-item .nav-link.active,
 .nav-pills.nav-pills-info .nav-item .nav-link.active:focus,
 .nav-pills.nav-pills-info .nav-item .nav-link.active:hover {
-  background-color: #2CA8FF;
+  background-color: #ED125C;
 }
 
 .nav-pills.nav-pills-success .nav-item .nav-link.active,
@@ -5841,7 +5841,7 @@ textarea.form-control:active {
 }
 
 .nav-tabs.nav-tabs-info>.nav-item>.nav-link.active {
-  background-color: #2CA8FF;
+  background-color: #ED125C;
 }
 
 .nav-tabs.nav-tabs-danger>.nav-item>.nav-link.active {
@@ -6028,7 +6028,7 @@ textarea.form-control:active {
 }
 
 .bg-info {
-  background-color: #2CA8FF !important;
+  background-color: #ED125C !important;
 }
 
 .bg-success {
@@ -6563,7 +6563,7 @@ img {
 }
 
 .popover.popover-info {
-  background-color: #2CA8FF;
+  background-color: #ED125C;
 }
 
 .popover.popover-info .popover-body {
@@ -6571,19 +6571,19 @@ img {
 }
 
 .popover.popover-info.bs-popover-right .arrow:after {
-  border-right-color: #2CA8FF;
+  border-right-color: #ED125C;
 }
 
 .popover.popover-info.bs-popover-top .arrow:after {
-  border-top-color: #2CA8FF;
+  border-top-color: #ED125C;
 }
 
 .popover.popover-info.bs-popover-bottom .arrow:after {
-  border-bottom-color: #2CA8FF;
+  border-bottom-color: #ED125C;
 }
 
 .popover.popover-info.bs-popover-left .arrow:after {
-  border-left-color: #2CA8FF;
+  border-left-color: #ED125C;
 }
 
 .popover.popover-info .popover-header {
@@ -6870,7 +6870,7 @@ img {
 }
 
 .info.info-hover:hover .icon.icon-info+.info-title {
-  color: #2CA8FF;
+  color: #ED125C;
 }
 
 .info.info-hover:hover .icon.icon-warning+.info-title {
@@ -6967,7 +6967,7 @@ img {
 }
 
 .icon.icon-info {
-  color: #2CA8FF;
+  color: #ED125C;
 }
 
 .icon.icon-info.icon-circle {
@@ -7167,7 +7167,7 @@ img {
 }
 
 .modal.modal-mini .modal-profile.modal-profile-info {
-  background-color: #2CA8FF;
+  background-color: #ED125C;
 }
 
 .modal.modal-mini .modal-footer button {
@@ -7224,7 +7224,7 @@ img {
 }
 
 .modal.modal-info .modal-content {
-  background-color: #2CA8FF;
+  background-color: #ED125C;
   color: #FFFFFF;
 }
 
@@ -7432,7 +7432,7 @@ img {
 }
 
 .card[data-background-color="blue"] {
-  background-color: #2CA8FF;
+  background-color: #ED125C;
 }
 
 .card[data-background-color="green"] {
@@ -7786,8 +7786,8 @@ img {
 }
 
 .card-pricing .icon.icon-info i {
-  box-shadow: 0px 9px 30px -6px #2CA8FF;
-  color: #2CA8FF;
+  box-shadow: 0px 9px 30px -6px #ED125C;
+  color: #ED125C;
 }
 
 .card-pricing .icon.icon-success i {
@@ -8076,7 +8076,7 @@ img {
 }
 
 .card-testimonial .icon.icon-info i {
-  color: #2CA8FF;
+  color: #ED125C;
 }
 
 .card-testimonial .icon.icon-danger i {
@@ -10949,5 +10949,6 @@ img {
     margin-top: -330px;
   }
 }
-
-/*# sourceMappingURL=kit-pro.css.map */
+html{
+  scroll-behavior: smooth
+}
