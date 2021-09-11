@@ -10952,3 +10952,13 @@ img {
 html{
   scroll-behavior: smooth
 }
+
+.centering{
+
+  align-items: center;
+  display: flex;
+}
+
+.centering-image{
+  text-align: center;
+}
